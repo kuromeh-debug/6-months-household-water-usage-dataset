@@ -19,10 +19,11 @@ This repository contains **hourly household water usage data** collected over th
 > ✅ All values are non-null and formatted consistently.
 
 ## 📂 File Structure
-
-.
 ├── data/
+
 │ └── six_month_household_water_usage_2022.csv
+
 ├── README.md
+
 └── LICENSE
 
